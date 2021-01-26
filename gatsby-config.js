@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Sopegue",
+    siteUrl: "https://needstobetheproductionurl.com",
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
